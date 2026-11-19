@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Surya 👋
+Backend Software Engineer | Distributed Systems | Java, Python, Kafka, gRPC, AWS
 
-<!--
-**surya532/surya532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build event-driven microservices and data pipelines. These repos are personal
+projects, built independently of my employer.
 
-Here are some ideas to get you started:
+## Featured projects
+- **[event-pipeline-kafka]** Idempotent Kafka consumers with retries and DLQ (Java, Spring Boot, PostgreSQL)
+- **[grpc-dynamodb-service]** gRPC service with DynamoDB access-pattern design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Java 17 · Python · Spring Boot · Kafka · gRPC · PostgreSQL · Redis · DynamoDB · AWS · Kubernetes · Terraform
+
+📫 LinkedIn: linkedin.com/in/surya-devathi
